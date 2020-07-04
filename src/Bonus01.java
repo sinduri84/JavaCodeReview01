@@ -16,7 +16,8 @@ public class Bonus01 {
                 {40, 50},
                 {10.5, 22.18},
                 {39.2, 90.6},
-                {81.4, 76.9}};
+                {81.4, 76.9},
+                {21.344, 22.899}};
 
         calculateRectAreaTestData(rectangleTestData);
 
