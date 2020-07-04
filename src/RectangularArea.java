@@ -19,7 +19,8 @@ public class RectangularArea {
         displayArea(40, 50);
         displayArea(19,39.5);
         displayArea(18.5, 14.3);
-
+        displayArea(21.3, 30.6);
+        displayArea(81.4, 76.9);
 
     }
 

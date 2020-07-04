@@ -26,6 +26,8 @@ public class SquareResult {
         displaySquareResult(89);
         displaySquareResult(20);
         displaySquareResult(37);
+        displaySquareResult(91);
+        displaySquareResult(32);
 
     }
 
